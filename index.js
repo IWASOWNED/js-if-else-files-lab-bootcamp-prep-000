@@ -13,3 +13,4 @@ if (name === "Susan")
 if (height === "70")
 { 
   console.log("The height is correct")
+}
